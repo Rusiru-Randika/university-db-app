@@ -1,4 +1,4 @@
-package com.example.universitydb;
+package com.example.universitydb.controller;
 
 import com.example.universitydb.dto.CourseCountDto;
 import com.example.universitydb.dto.CourseDto;
